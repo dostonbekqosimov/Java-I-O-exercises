@@ -1,0 +1,16 @@
+Hello World!
+I am a programmer
+I am Doston
+I love programming
+I am 22 years old
+I am learning Java
+I am 6 feet tall
+It is very interesting
+I am from Uzbekistan
+This is the end for b.txt
+This is the end for a.txt
+I am learning Java
+qqqqq
+It is very interesting
+This is the end for b.txt
+ssss

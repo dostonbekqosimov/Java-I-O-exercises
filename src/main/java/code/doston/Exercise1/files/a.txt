@@ -1,0 +1,7 @@
+Hello World!
+I am Doston
+I am 22 years old
+I am 6 feet tall
+I am from Uzbekistan
+This is the end for a.txt
+qqqqq

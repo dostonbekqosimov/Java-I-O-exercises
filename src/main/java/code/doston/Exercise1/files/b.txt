@@ -1,0 +1,9 @@
+I am a programmer
+I love programming
+I am learning Java
+It is very interesting
+This is the end for b.txt
+I am learning Java
+It is very interesting
+This is the end for b.txt
+ssss
